@@ -1,0 +1,9 @@
+{
+  "name": "@eliseosalas/blockchain-simple",
+  "version": "1.0.0",
+  "description": "blockchain simple",
+  "main": "index.js",
+  "author": "@eliseosalas",
+  "repository": "https://github.com/EliseoSalas/blockchain-simple.git",
+  "license": "ISC"
+}
